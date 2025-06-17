@@ -1,10 +1,12 @@
-judul,tahun,penulis,stok,harga
-Laskar Pelangi,2005,Andrea Hirata,10,75000
-Negeri 5 Menara,2009,Ahmad Fuadi,104,70000
-Dilan 1990,2014,Pidi Baiq,12,65000
-Ayat-Ayat Cinta,2004,Habiburrahman El Shirazy,6,90000
-Koala Kumal,2015,Raditya Dika,9,60000
-Filosofi Teras,2019,Henry Manampiring,4,95000
-Ronggeng Dukuh Paruk,1982,Ahmad Tohari,3,72000
-Laut Bercerita,2020,Leila S. Chudori,30,115000
-amba,2023,Rafi Ulat Sagu,10,65000
+judul,tahun,penulis,stok,harga,rating
+Laskar Pelangi,2005,Andrea Hirata,10,75000,4.25
+Negeri 5 Menara,2009,Ahmad Fuadi,104,70000,4.15
+Dilan 1990,2014,Pidi Baiq,57,65000,3.96
+Ayat-Ayat Cinta,2004,Habiburrahman El Shirazy,6,90000,3.89
+Koala Kumal,2015,Raditya Dika,9,60000,3.93
+Filosofi Teras,2019,Henry Manampiring,4,95000,4.49
+Ronggeng Dukuh Paruk,1982,Ahmad Tohari,3,72000,4.26
+Laut Bercerita,2020,Leila S. Chudori,30,115000,4.62
+amba,2023,Rafi Ulat Sagu,163,65000,4.1
+amba,2024,Nafisa Mesin Uap,88,75000,4.1
+Dilan 1990,2025,Novi Ambalabu,66,80000,3.96
