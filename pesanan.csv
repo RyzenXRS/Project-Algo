@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 username,judul,harga,status
 robi,Bumi,85000,Diterima
 robi,Hujan,78000,Diterima
@@ -24,3 +25,24 @@ robi,amba,65000,Menunggu Konfirmasi
 robi,amba,65000,Menunggu Konfirmasi
 robi,amba,65000,Dikirim
 robi,amba,65000,Menunggu Konfirmasi
+=======
+username,judul,harga,status
+robi,Bumi,85000,Diterima
+robi,Hujan,78000,Diterima
+robi,Hujan,78000,Diterima
+robi,Bumi,85000,Diterima
+robi,Hujan,78000,Diterima
+robi,Bumi,85000,Diterima
+robi,Hujan,78000,Diterima
+robi,Koala Kumal,60000,Diterima
+robi,Koala Kumal,60000,Diterima
+robi,Hujan,78000,Dikirim
+robi,Hujan,78000,Dikirim
+robi,amba,50000,Diterima
+robi,amba,50000,Diterima
+robi,amba,50000,Diterima
+robi,amba,50000,Dikirim
+robi,amba,50000,Dikirim
+robi,amba,50000,Dikirim
+robi,amba,65000,Menunggu Konfirmasi
+>>>>>>> 997a80b47e2bb495451adde628747f8587d1a13f
